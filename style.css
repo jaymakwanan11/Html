@@ -1,0 +1,19 @@
+h1{
+	color:green;
+	background-color:lightblue;
+	font-size:20px;
+	font-family:arial;
+	text-shadow:2px 2px 5px;
+	text-decoration-style:wavy;
+	width:100px;
+	height:100px;
+}
+
+p{
+	font-family:jokerman;
+	text-shadow:2px 2px 5px;
+	background-color:yellow;
+	text-align:center;
+	text-decoration:underline red 2px;
+	text-decoration-style:dotted;
+}
