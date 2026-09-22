@@ -1,0 +1,18 @@
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: cornflowerblue;
+    border: 7px dashed red;
+}
+    
+
+    h1{
+        color: blue;
+    }
+
+    body{
+        
+        background-image: url(abc.png);
+        background-size: cover;
+    }
+
+    
